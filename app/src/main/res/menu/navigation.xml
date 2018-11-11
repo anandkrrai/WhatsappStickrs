@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_packs"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_packs" />
+
+    <item
+        android:id="@+id/navigation_love"
+        android:icon="@drawable/heart"
+        android:title="@string/love" />
+    <item
+    android:id="@+id/navigation_share"
+    android:icon="@android:drawable/ic_menu_share"
+    android:title="@string/share" />
+
+</menu>
