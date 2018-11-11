@@ -7,7 +7,6 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
                 case R.id.navigation_home:
-                    loadFragment(new home());
+                    loadFragment(new homeFragment());
                     return true;
 
                 case R.id.navigation_packs:
@@ -49,13 +48,16 @@ public class MainActivity extends AppCompatActivity {
 
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+
+        loadFragment(new homeFragment());
+
     }
 
     public void shareApp(){
         try {
             Intent i = new Intent(Intent.ACTION_SEND);
             i.setType("text/plain");
-            i.putExtra(Intent.EXTRA_SUBJECT, "My application name");
+            i.putExtra(Intent.EXTRA_SUBJECT, "Whatsapp Stickers");
             String sAux = "\nLet me recommend you this application\n\n";
             sAux = sAux + "https://play.google.com/store/apps/details?id=the.package.id \n\n";
             i.putExtra(Intent.EXTRA_TEXT, sAux);

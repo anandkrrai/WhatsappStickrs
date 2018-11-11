@@ -9,9 +9,10 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.Toast;
 
-public class LoveFragment extends Fragment {
 
-    public LoveFragment() {
+public class homeFragment extends Fragment {
+
+    public homeFragment() {
         // Required empty public constructor
     }
 
@@ -25,8 +26,8 @@ public class LoveFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_love, container, false);
-        GridView gridview = (GridView) view.findViewById(R.id.gridviewLove);
+        View view = inflater.inflate(R.layout.fragment_home, container, false);
+        GridView gridview = (GridView) view.findViewById(R.id.gridviewHome);
         gridview.setAdapter(new ImageAdapter(getContext()));
 
         gridview.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -37,7 +38,7 @@ public class LoveFragment extends Fragment {
             }
         });
 
-        return view;
+     return view;
     }
 
 }
