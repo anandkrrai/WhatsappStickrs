@@ -3,9 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.samplestickerapp">
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="false"
         android:fullBackupContent="false"
@@ -15,7 +16,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-
         <provider
             android:name="android.support.v4.content.FileProvider"
             android:authorities="com.example.samplestickerapp"
@@ -26,10 +26,7 @@
                 android:resource="@xml/fileprovider" />
         </provider>
 
-        <activity android:name=".EntryActivity">
-
-        </activity>
-
+        <activity android:name=".EntryActivity"></activity>
         <activity
             android:name=".StickerPackListActivity"
             android:label="@string/title_activity_sticker_packs_list" />
@@ -58,7 +55,6 @@
             android:exported="true"
             android:readPermission="com.whatsapp.sticker.READ" />
 
-
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main">
@@ -77,7 +73,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StickerImagesToWhatsapp"></activity>
+        <activity android:name=".StickerImagesToWhatsapp" />
+        <activity android:name=".MiddleActivity"></activity>
     </application>
 
 </manifest>
