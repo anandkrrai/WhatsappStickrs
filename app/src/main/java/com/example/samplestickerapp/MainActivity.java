@@ -11,10 +11,12 @@ import android.widget.Toast;
 
 import com.example.samplestickerapp.Fragments.LoveFragment;
 import com.example.samplestickerapp.Fragments.homeFragment;
+import com.example.samplestickerapp.Util.Utils;
+import com.google.android.gms.appinvite.AppInviteInvitation;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    private static final int REQUEST_INVITE = 1;
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
@@ -51,20 +53,28 @@ public class MainActivity extends AppCompatActivity {
 
         loadFragment(new LoveFragment());
 
+        Utils.getDatabase();
+
     }
 
     public void shareApp(){
-        try {
-            Intent i = new Intent(Intent.ACTION_SEND);
-            i.setType("text/plain");
-            i.putExtra(Intent.EXTRA_SUBJECT, "Whatsapp Stickers");
-            String sAux = "\nLet me recommend you this application\n\n";
-            sAux = sAux + "https://play.google.com/store/apps/details?id=the.package.id \n\n";
-            i.putExtra(Intent.EXTRA_TEXT, sAux);
-            startActivity(Intent.createChooser(i, "choose one"));
-        } catch(Exception e) {
-            //e.toString();
-        }
+//        try {
+//            Intent i = new Intent(Intent.ACTION_SEND);
+//            i.setType("text/plain");
+//            i.putExtra(Intent.EXTRA_SUBJECT, "Whatsapp Stickers");
+//            String sAux = "\nLet me recommend you this application\n\n";
+//            sAux = sAux + "https://play.google.com/store/apps/details?id=the.package.id \n\n";
+//            i.putExtra(Intent.EXTRA_TEXT, sAux);
+//            startActivity(Intent.createChooser(i, "choose one"));
+//        } catch(Exception e) {
+//            //e.toString();
+//        }
+
+        Intent intent = new AppInviteInvitation.IntentBuilder(getString(R.string.invitation_title))
+                .setMessage(getString(R.string.invitation_message))
+                .setCallToActionText(getString(R.string.invitation_cta))
+                .build();
+        startActivityForResult(intent, REQUEST_INVITE);
     }
 
     private void loadFragment(android.support.v4.app.Fragment fragment) {

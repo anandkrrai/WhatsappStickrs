@@ -28,7 +28,9 @@
     <string name="title_packs">Packs</string>
     <string name="share">Share</string>
     <string name="love">Love</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invitation_title">Invite Friends to Download And Install StickerApp</string>
+    <string name="invitation_message">Download this amazing Sticker App </string>
+    <string name="invitation_deep_link">https://drive.google.com/open?id=1-RQn8ICde1XbhvqFVNZupLfP7_bmN1cG</string>
+    <string name="invitation_custom_image">custom image</string>
+    <string name="invitation_cta">inviatation cta</string>
 </resources>
