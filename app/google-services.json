@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891474363363",
+    "firebase_url": "https://whatsapp-stickers-3ef8c.firebaseio.com",
+    "project_id": "whatsapp-stickers-3ef8c",
+    "storage_bucket": "whatsapp-stickers-3ef8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891474363363:android:9b54699c44aed35d",
+        "android_client_info": {
+          "package_name": "com.example.samplestickerapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891474363363-liltic895vt0b5c68d25516enpa3aqak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samplestickerapp1",
+            "certificate_hash": "cb6aada98a13f7e7b9aab39b872fbeffae9ac622"
+          }
+        },
+        {
+          "client_id": "891474363363-flgrvudnrr4qa6b9r98q3a3p89msu8sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9L2RgIbEYDF7C5JBOh1XGBP0RTDLg50o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891474363363-flgrvudnrr4qa6b9r98q3a3p89msu8sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
