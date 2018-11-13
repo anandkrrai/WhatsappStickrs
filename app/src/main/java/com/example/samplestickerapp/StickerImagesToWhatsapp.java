@@ -21,6 +21,7 @@ public class StickerImagesToWhatsapp extends AppCompatActivity {
 
     Button btn ;
     ImageView imageView;
+    String imgsrc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,7 +31,10 @@ public class StickerImagesToWhatsapp extends AppCompatActivity {
         btn = findViewById(R.id.button);
         imageView = findViewById(R.id.imageView2);
 
-        Picasso.with(this).load("http://i.imgur.com/DvpvklR.png").into(imageView);
+        Bundle bundle = getIntent().getExtras();
+        imgsrc= bundle.getString("imgsrc");
+
+        Picasso.with(this).load(imgsrc).into(imageView);
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -53,7 +57,7 @@ public class StickerImagesToWhatsapp extends AppCompatActivity {
             shareIntent.putExtra(Intent.EXTRA_STREAM, bmpUri);
             shareIntent.setType("image/*");
             // Launch sharing dialog for image
-            startActivity(Intent.createChooser(shareIntent, "Share Image"));
+            startActivity(Intent.createChooser(shareIntent, "Share Sticker"));
         } else {
             // ...sharing failed, handle error
         }

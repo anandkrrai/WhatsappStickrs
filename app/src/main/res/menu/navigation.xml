@@ -12,10 +12,6 @@
         android:title="@string/title_packs" />
 
     <item
-        android:id="@+id/navigation_love"
-        android:icon="@android:drawable/star_big_on"
-        android:title="@string/love" />
-    <item
     android:id="@+id/navigation_share"
     android:icon="@android:drawable/ic_menu_share"
     android:title="@string/share" />
