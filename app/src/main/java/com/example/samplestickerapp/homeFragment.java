@@ -44,7 +44,7 @@ public class homeFragment extends Fragment {
                                     int position, long id) {
                 Toast.makeText(getContext(), "" + position,
                         Toast.LENGTH_SHORT).show();
-                ShareImage();
+//                ShareImage();
                 Intent intent = new Intent();
                 intent.setClass(getContext(), StickerImagesToWhatsapp.class);
                 startActivity(intent);
