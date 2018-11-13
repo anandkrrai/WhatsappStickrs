@@ -114,6 +114,1623 @@
         }
       ]
     },
+
+ {
+      "identifier": "angry",
+      "name": "Angry",
+      "publisher": "StickoText.com",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😠","👎"]
+        },{
+          "image_file": "17.webp",
+          "emojis": ["😡","😠","👎"]
+        }
+      ]
+    },
+    {
+      "identifier": "birthday",
+      "name": "Birthday",
+      "publisher": "StickoText.com",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🎂","🍻"]
+        }
+      ]
+    },
+{
+      "identifier": "emoji",
+      "name": "Emoji",
+      "publisher": "rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["🙂","😄"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["👍","😄"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["💔","👎","😡"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😩","😰","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😱","😵","😡"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["👍","😄"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["👍","😄"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😩","😰","😠"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😩","😰","😠"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🙂","😄"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["👍","😄"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["👍","😄"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["🙂","😆","😂"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["👍","😄","😄"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😩","😰","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["👍","😄","😄"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😱","😵","😡"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["💔","👎","😡"]
+        }
+      ]
+    },
+  {
+      "identifier": "diwali",
+      "name": "Happy Diwali",
+      "publisher": "rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["👍","😄","👏"]
+        }
+      ]
+    },
+ {
+      "identifier": "happy",
+      "name": "Happy",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😆","😂","😄"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😆","😂","😄"]
+        }
+      ]
+    },
+    {
+      "identifier": "love_couple",
+      "name": "Love Couple",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "24.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "25.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "26.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "like",
+      "name": "Like",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["👍","😄","👏"]
+        }
+      ]
+    },
+    {
+      "identifier": "hug",
+      "name": "Hug",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+     
+    {
+      "identifier": "love",
+      "name": "Love",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "24.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "25.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "29.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "love_emoji",
+      "name": "Love Emoji",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "15.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "18.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😍","💑","♥"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "kiss",
+      "name": "Kiss",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "af_angry",
+      "name": "African Angry",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😡","😠","👎"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😡","😠","👎"]
+        }
+      ]
+    },{
+      "identifier": "af_birthday",
+      "name": "African Birthday",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🎂","🍻"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["🎂","🍻"]
+        }
+      ]
+    },
+    {
+      "identifier": "af_like",
+      "name": "African Like",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["👍","😄","👏"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["👍","😄","👏"]
+        }
+      ]
+    },
+    {
+      "identifier": "af_love",
+      "name": "African Love",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "sad",
+      "name": "Shocked Sad",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["😵","😩","😰"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "meme",
+      "name": "Memes",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😱","😵","😠"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😵","😩","😰"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😵","😩","😰"]
+        }
+      ]
+    },
+    {
+      "identifier": "selfee",
+      "name": "Selfee",
+      "publisher": "Anand Rai",
+      "tray_image_file": "icon.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😍","💑","♥"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😍","💑","♥"]
+        }
+
+      ]
+    },
  {
       "identifier": "2",
       "name": "Puppy",
