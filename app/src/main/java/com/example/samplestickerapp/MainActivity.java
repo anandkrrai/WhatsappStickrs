@@ -9,6 +9,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.example.samplestickerapp.Fragments.LoveFragment;
+import com.example.samplestickerapp.Fragments.homeFragment;
+
 public class MainActivity extends AppCompatActivity {
 
 

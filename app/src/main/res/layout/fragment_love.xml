@@ -2,16 +2,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.samplestickerapp.homeFragment">
+    tools:context="com.example.samplestickerapp.Fragments.homeFragment">
 
-    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/gridviewLove"
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/loveFragmentRecyclerView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:minHeight="30dp"
-        android:numColumns="3"
-        android:stretchMode="columnWidth"
-        android:verticalSpacing="10dp" />
-
+        android:layout_height="match_parent" />
 </FrameLayout>

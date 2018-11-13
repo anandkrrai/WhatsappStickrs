@@ -1,6 +1,5 @@
 package com.example.samplestickerapp;
 
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
@@ -31,7 +30,7 @@ public class StickerImagesToWhatsapp extends AppCompatActivity {
         btn = findViewById(R.id.button);
         imageView = findViewById(R.id.imageView2);
 
-        Picasso.get().load("http://i.imgur.com/DvpvklR.png").into(imageView);
+        Picasso.with(this).load("http://i.imgur.com/DvpvklR.png").into(imageView);
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
