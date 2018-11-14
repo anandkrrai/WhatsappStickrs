@@ -11,11 +11,11 @@ public class MiddleActivityModal {
     public MiddleActivityModal() {
     }
 
-    public String getUrl() {
+    public String getImgsrc() {
         return imgsrc;
     }
 
-    public void setUrl(String url) {
-        this.imgsrc = url;
+    public void setImgsrc(String imgsrc) {
+        this.imgsrc = imgsrc;
     }
 }

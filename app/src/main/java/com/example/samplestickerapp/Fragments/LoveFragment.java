@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -16,6 +17,8 @@ import com.example.samplestickerapp.R;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+
+import static android.support.constraint.Constraints.TAG;
 
 public class LoveFragment extends Fragment {
 
@@ -46,12 +49,15 @@ public class LoveFragment extends Fragment {
     }
 
     private void populateRecyclerAdapter() {
-        FirebaseRecyclerAdapter<loveModal,loveViewHolder> firebaseRecyclerAdapter = new FirebaseRecyclerAdapter<loveModal, loveViewHolder>
+        FirebaseRecyclerAdapter<loveModal,loveViewHolder> firebaseRecyclerAdapter = new FirebaseRecyclerAdapter
+                <loveModal, loveViewHolder>
                 (loveModal.class,R.layout.stickers_row,loveViewHolder.class,databaseReference) {
 
             @Override
             protected void populateViewHolder(loveViewHolder viewHolder, loveModal model, int position) {
-                viewHolder.setImage(getContext(),model.getUrl());
+//                Log.d(TAG, "populateViewHolder: imgsrc "+ model.getImgsrc());
+//                Log.d(TAG, "populateViewHolder: parent "+ model.getParent());
+                viewHolder.setImage(getContext(),model.getImgsrc());
                 viewHolder.setParent(model.getParent());
             }
 

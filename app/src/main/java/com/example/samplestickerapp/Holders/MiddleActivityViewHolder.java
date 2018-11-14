@@ -48,11 +48,5 @@ public class MiddleActivityViewHolder extends RecyclerView.ViewHolder {
 
     public void setImage(Context context , String image){
         Picasso.with(context).load(image).into(imageView);
-
-        if(image.isEmpty()){
-            Picasso.with(context).load("https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg").into(imageView);
-            }else {
-            Picasso.with(context).load(image).into(imageView);
-        }
     }
 }

@@ -40,8 +40,8 @@ public class MiddleActivity extends AppCompatActivity {
                 (MiddleActivityModal.class,R.layout.middle_activitystickers_row,MiddleActivityViewHolder.class,databaseReference) {
             @Override
             protected void populateViewHolder(MiddleActivityViewHolder viewHolder, MiddleActivityModal model, int position) {
-                viewHolder.setImage(getApplicationContext(),model.getUrl());
-                viewHolder.setImgsrc(model.getUrl());
+                viewHolder.setImage(getApplicationContext(),model.getImgsrc());
+                viewHolder.setImgsrc(model.getImgsrc());
 
             }
 

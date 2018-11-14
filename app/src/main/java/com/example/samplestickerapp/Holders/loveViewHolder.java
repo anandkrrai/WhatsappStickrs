@@ -15,27 +15,17 @@ public class loveViewHolder extends RecyclerView.ViewHolder {
     private String imgsrc;
     public String parent;
 
+    public loveViewHolder(View itemView){
+        super(itemView);
+        imageView= itemView.findViewById(R.id.imageViewcomedy);
+        cardView=itemView.findViewById(R.id.cardviewComedy);
+    }
     public String getParent() {
         return parent;
     }
 
     public void setParent(String parent) {
         this.parent = parent;
-    }
-
-    public loveViewHolder(View itemView){
-        super(itemView);
-        imageView= itemView.findViewById(R.id.imageViewcomedy);
-        cardView=itemView.findViewById(R.id.cardviewComedy);
-    }
-
-
-    public ImageView getImageView() {
-        return imageView;
-    }
-
-    public void setImageView(ImageView imageView) {
-        this.imageView = imageView;
     }
 
     public CardView getCardView() {
@@ -55,12 +45,8 @@ public class loveViewHolder extends RecyclerView.ViewHolder {
     }
 
     public void setImage(Context context , String image){
+
         Picasso.with(context).load(image).into(imageView);
 
-        if(image.isEmpty()){
-            Picasso.with(context).load("https://imagejournal.org/wp-content/uploads/bb-plugin/cache/23466317216_b99485ba14_o-panorama.jpg").into(imageView);
-            }else {
-            Picasso.with(context).load(image).into(imageView);
-        }
     }
 }

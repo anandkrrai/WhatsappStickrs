@@ -3,6 +3,10 @@ package com.example.samplestickerapp.Modals;
 public class loveModal {
 
     String imgsrc;
+    String parent;
+
+    public loveModal() {
+    }
 
     public String getParent() {
         return parent;
@@ -12,21 +16,15 @@ public class loveModal {
         this.parent = parent;
     }
 
-    String parent;
-
-
     public loveModal(String url) {
         this.imgsrc = url;
     }
 
-    public loveModal() {
-    }
-
-    public String getUrl() {
+    public String getImgsrc() {
         return imgsrc;
     }
 
-    public void setUrl(String url) {
-        this.imgsrc = url;
+    public void setImgsrc(String imgsrc) {
+        this.imgsrc = imgsrc;
     }
 }
