@@ -2,6 +2,79 @@
   "android_play_store_link": "",
   "ios_app_store_link": "",
   "sticker_packs": [
+
+{
+      "identifier": "51",
+      "name": "PUBG Stickers",
+      "publisher": "Anand Rai",
+      "tray_image_file": "00.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+        {
+          "image_file": "001.webp"
+        },
+        {
+          "image_file": "002.webp"
+        },
+        {
+          "image_file": "003.webp"
+        },
+        {
+          "image_file": "004.webp"
+        },
+        {
+          "image_file": "005.webp"
+        }
+      ,
+        {
+          "image_file": "006.webp"
+        }
+      ,
+        {
+          "image_file": "007.webp"
+        }
+      ,
+        {
+          "image_file": "008.webp"
+        }
+      ,
+        {
+          "image_file": "009.webp"
+        }
+      ,
+        {
+          "image_file": "010.webp"
+        }
+      ,
+        {
+          "image_file": "011.webp"
+        }
+      ,
+        {
+          "image_file": "012.webp"
+        }
+      ,
+        {
+          "image_file": "013.webp"
+        }
+      ,
+        {
+          "image_file": "014.webp"
+        }
+      ,
+        {
+          "image_file": "015.webp"
+        }
+      ,
+        {
+          "image_file": "016.webp"
+        }
+]
+},
      {
       "identifier": "angry",
       "name": "Angry",
@@ -269,6 +342,760 @@
         {
           "image_file": "25.webp",
           "emojis": ["💔","👎","😡"]
+        }
+      ]
+    },
+    {
+      "identifier": "41",
+      "name": "Dank meme pack 4",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        }
+      ]
+    },
+   
+   {
+      "identifier": "11",
+      "name": "Dank meme pack 1",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "Dank meme pack 2",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "31",
+      "name": "Dank meme pack 3",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        }
+      ]
+    },
+ {
+      "identifier": "551",
+      "name": "Dank meme pack 5",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        }
+      ]
+    },
+
+ {
+      "identifier": "61",
+      "name": "Dank meme pack 6",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
         }
       ]
     },
@@ -1621,7 +2448,7 @@
  {
       "identifier": "2",
       "name": "Puppy",
-      "publisher": "Jane Doe",
+      "publisher": "JSnow developer",
       "tray_image_file": "puppy.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -1729,6 +2556,234 @@
           "emojis": ["🔋","😵"]
         }
       ]
-    }
+    },
+  {
+      "identifier": "81",
+      "name": "Dank meme pack 8",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        }
+      ]
+    },
+ {
+      "identifier": "71",
+      "name": "Dank meme pack 7",
+      "publisher": "anand rai",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": []
+        },{
+          "image_file": "2.webp",
+          "emojis": []
+        },{
+          "image_file": "3.webp",
+          "emojis": []
+        },{
+          "image_file": "4.webp",
+          "emojis": []
+        },{
+          "image_file": "5.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": []
+        }
+      ]
+    }   
   ]
 }
