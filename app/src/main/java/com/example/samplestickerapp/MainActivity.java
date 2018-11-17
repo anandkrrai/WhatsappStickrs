@@ -56,23 +56,24 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void shareApp(){
-//        try {
-//            Intent i = new Intent(Intent.ACTION_SEND);
-//            i.setType("text/plain");
-//            i.putExtra(Intent.EXTRA_SUBJECT, "Whatsapp Stickers");
-//            String sAux = "\nLet me recommend you this application\n\n";
+        try {
+            Intent i = new Intent(Intent.ACTION_SEND);
+            i.setType("text/plain");
+            i.putExtra(Intent.EXTRA_SUBJECT, "Whatsapp Stickers");
+            String sAux = "\nLet me recommend you this application\n\n";
 //            sAux = sAux + "https://play.google.com/store/apps/details?id=the.package.id \n\n";
-//            i.putExtra(Intent.EXTRA_TEXT, sAux);
-//            startActivity(Intent.createChooser(i, "choose one"));
-//        } catch(Exception e) {
-//            //e.toString();
-//        }
+            sAux = sAux + "https://drive.google.com/file/d/1TPtlFS90W8ZpohHq2SZRndMk1JPVJdvc/view \n\n";
+            i.putExtra(Intent.EXTRA_TEXT, sAux);
+            startActivity(Intent.createChooser(i, "choose one"));
+        } catch(Exception e) {
+            //e.toString();
+        }
 
-        Intent intent = new AppInviteInvitation.IntentBuilder(getString(R.string.invitation_title))
-                .setMessage(getString(R.string.invitation_message))
-                .setCallToActionText(getString(R.string.invitation_cta))
-                .build();
-        startActivityForResult(intent, REQUEST_INVITE);
+//        Intent intent = new AppInviteInvitation.IntentBuilder(getString(R.string.invitation_title))
+//                .setMessage(getString(R.string.invitation_message))
+//                .setCallToActionText(getString(R.string.invitation_cta))
+//                .build();
+//        startActivityForResult(intent, REQUEST_INVITE);
     }
 
     private void loadFragment(android.support.v4.app.Fragment fragment) {
