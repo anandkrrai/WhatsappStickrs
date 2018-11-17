@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.samplestickerapp">
+    package="com.teamleaf.samplestickerapp">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -18,7 +18,7 @@
         tools:ignore="GoogleAppIndexingWarning">
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.example.samplestickerapp"
+            android:authorities="com.teamleaf.samplestickerapp"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
@@ -26,55 +26,48 @@
                 android:resource="@xml/fileprovider" />
         </provider>
 
-        <activity android:name=".EntryActivity"></activity>
+        <activity android:name="com.teamleaf.samplestickerapp.EntryActivity"></activity>
         <activity
-            android:name=".StickerPackListActivity"
+            android:name="com.teamleaf.samplestickerapp.StickerPackListActivity"
             android:label="@string/title_activity_sticker_packs_list" />
         <activity
-            android:name=".StickerPackDetailsActivity"
-            android:parentActivityName=".StickerPackListActivity"
+            android:name="com.teamleaf.samplestickerapp.StickerPackDetailsActivity"
+            android:parentActivityName="com.teamleaf.samplestickerapp.StickerPackListActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.samplestickerapp.StickerPackListActivity" />
+                android:value="com.teamleaf.samplestickerapp.StickerPackListActivity" />
         </activity>
         <activity
-            android:name=".StickerPackInfoActivity"
+            android:name="com.teamleaf.samplestickerapp.StickerPackInfoActivity"
             android:label="@string/title_activity_sticker_pack_info"
-            android:parentActivityName=".StickerPackDetailsActivity"
+            android:parentActivityName="com.teamleaf.samplestickerapp.StickerPackDetailsActivity"
             tools:ignore="UnusedAttribute">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.samplestickerapp.StickerPackDetailsActivity" />
+                android:value="com.teamleaf.samplestickerapp.StickerPackDetailsActivity" />
         </activity>
 
         <provider
-            android:name=".StickerContentProvider"
+            android:name="com.teamleaf.samplestickerapp.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"
             android:readPermission="com.whatsapp.sticker.READ" />
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.teamleaf.samplestickerapp.MainActivity"
             android:label="@string/title_activity_main">
-
-            <!-- <intent-filter> -->
-            <!-- <action android:name="android.intent.action.MAIN" /> -->
-
-
-            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-            <!-- </intent-filter> -->
         </activity>
-        <activity android:name=".SplashScreen">
+        <activity android:name="com.teamleaf.samplestickerapp.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StickerImagesToWhatsapp" />
-        <activity android:name=".MiddleActivity"></activity>
+        <activity android:name="com.teamleaf.samplestickerapp.StickerImagesToWhatsapp" />
+        <activity android:name="com.teamleaf.samplestickerapp.MiddleActivity"></activity>
     </application>
 
 </manifest>

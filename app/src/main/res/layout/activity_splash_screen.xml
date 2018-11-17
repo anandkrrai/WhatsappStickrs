@@ -8,7 +8,7 @@
     android:gravity="center"
     android:background="@drawable/gradient_list"
     android:orientation="vertical"
-    tools:context="com.example.samplestickerapp.SplashScreen">
+    tools:context="com.teamleaf.samplestickerapp.SplashScreen">
 
     <RelativeLayout
         android:id="@+id/l1"
